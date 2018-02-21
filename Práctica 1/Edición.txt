@@ -1,0 +1,5 @@
+1234567891234	2	Anaya	Inglés	52.35	true	false
+2345678925865	4	Edebé	Español	20.75	true	true
+8754924975108	5	Planeta	Chino	15.98	false	true
+6132484316463	8	Anaya	Inglés	63.97	false	false
+154969267885	6	Anaya	Español	75.25	true	false

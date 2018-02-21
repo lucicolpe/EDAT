@@ -1,0 +1,5 @@
+Edward Marshall	001
+Vargas Llosa	002
+García Márquez	003
+Isabel Allende	004
+Conan Doyle	005
